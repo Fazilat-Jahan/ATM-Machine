@@ -11,3 +11,6 @@ Withdraw: Enter the amount you want to withdraw from your account. If the amount
 Fast Cash: Choose from preset cash amounts (e.g., $500, $1000, $5000) for quick withdrawal. Again, the program checks for sufficient balance before processing the withdrawal.
 
 Check Balance: View your current account balance.
+
+If you're intrigued and want to try it, just enter the command "npx builtin-atm-machine" on your cmd. 
+
